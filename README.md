@@ -1,4 +1,4 @@
-## heeey, sou a Thais Ribeiro!!
+## Heeey, sou a Thais Ribeiro!!
 
 Tenho 25 anos e atualmente eu moro em Betim/MG. Desde sempre, fui apaixonada e viciada em tecnologia, sempre tive bastante contato com essa área, mas só recentemente pude começar a me dedicar a isso. O sonho e meu maior foco é me tornar uma mulher desenvolvedora, dedicada, qualificada e competente. 
 
