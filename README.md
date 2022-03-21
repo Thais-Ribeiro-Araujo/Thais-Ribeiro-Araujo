@@ -10,7 +10,7 @@ Voce que esta stalkeando meu gitbub, se tiver um tempinho, fique a vontade para 
 
 <img height="200" src="http://4.bp.blogspot.com/-zyWi4IucVH8/To4pD_2GFJI/AAAAAAAABqc/kAW2KsEiItA/s1600/piscadinha.gif" style="max-width: 100%;">
 
-Bom espero que gostem dos projetos e se quiser me achar só me acessar os links abaixo: 
+Bom espero que gostem dos projetos e se quiser me contatar só me acessar meu linkedin no link abaixo:
 
 
 <a href="https://www.linkedin.com/in/thais-ribeiro-de-ara%C3%BAjo-9aa039193/"> <img src="https://camo.githubusercontent.com/a80d00f23720d0bc9f55481cfcd77ab79e141606829cf16ec43f8cacc7741e46/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="Linkedin" style="max-width: 100%;"> </a>
