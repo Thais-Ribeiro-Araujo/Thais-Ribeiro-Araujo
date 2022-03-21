@@ -1,4 +1,4 @@
-## heeey, sou a Thais!!
+## heeey, sou a Thais Ribeiro!!
 
 Tenho 25 anos e atualmente eu moro em Betim/MG. Desde sempre, fui apaixonada e viciada em tecnologia, sempre tive bastante contato com essa área, mas só recentemente pude começar a me dedicar a isso. O sonho e meu maior foco é me tornar uma mulher desenvolvedora, dedicada, qualificada e competente. 
 
@@ -12,8 +12,8 @@ Voce que esta stalkeando meu gitbub, se tiver um tempinho, fique a vontade para 
 
 Bom espero que gostem dos projetos e se quiser me achar só me acessar os links abaixo: 
 
-<img src="https://camo.githubusercontent.com/a80d00f23720d0bc9f55481cfcd77ab79e141606829cf16ec43f8cacc7741e46/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="Linkedin" data-canonical-src="https://www.linkedin.com/in/thais-ribeiro-de-ara%C3%BAjo-9aa039193/" style="max-width: 100%;">
-<img src="https://camo.githubusercontent.com/d9d4db0a25f6d41d6ef282c6adc2f9bd5b31201ef00ba580f5a945da4063a937/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f57686174734170702d3235443336363f7374796c653d666f722d7468652d6261646765266c6f676f3d7768617473617070266c6f676f436f6c6f723d7768697465" alt="Whatsapp" data-canonical-src="https://api.whatsapp.com/send?phone=5531992686677&text=Ol%C3%A1,%20fique%20a%20vontade%20para%20me%20mandar%20uma%20mensagem!" style="max-width: 100%;">
+<a href="https://www.linkedin.com/in/thais-ribeiro-de-ara%C3%BAjo-9aa039193/"> <img src="https://camo.githubusercontent.com/a80d00f23720d0bc9f55481cfcd77ab79e141606829cf16ec43f8cacc7741e46/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="Linkedin" style="max-width: 100%;"> </a>
+<a href="https://api.whatsapp.com/send?phone=5531992686677&text=Ol%C3%A1,%20fique%20a%20vontade%20para%20me%20mandar%20uma%20mensagem!" ><img src="https://camo.githubusercontent.com/d9d4db0a25f6d41d6ef282c6adc2f9bd5b31201ef00ba580f5a945da4063a937/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f57686174734170702d3235443336363f7374796c653d666f722d7468652d6261646765266c6f676f3d7768617473617070266c6f676f436f6c6f723d7768697465" alt="Whatsapp" style="max-width: 100%;"></a>
 
 <img height="200" src="https://i.pinimg.com/originals/c1/57/3b/c1573b4b45dc7dd0faf89eb5064f53f9.gif" style="max-width: 100%;">
 
