@@ -4,7 +4,7 @@ Tenho 25 anos e atualmente eu moro em Betim/MG. Desde sempre, fui apaixonada e v
 
 <img height="200" src="https://monophy.com/media/gjID636ycj4c55ECEb/monophy.gif" style="max-width: 100%;"> <img height="200" src="https://c.tenor.com/JQ9nwYFkaeQAAAAC/baby-yoda-grogu.gif" style="max-width: 100%;">
 
-Sou graduada em Engenharia Civil, trabalhei na area de projetos, e era muito boa nisso, porem nao era realizada. Larguei tudo para finalmente me dedicar o que eu realmente quero e poder seguir meu sonho, atualmente estou cursando Desenvolvimento Full-Stack junto a Trybe, que vem me dando cada vez mais orgulho por ver meu crescimento em tao pouco tempo. 
+Sou graduada em Engenharia Civil, trabalhei na area de projetos, e era muito boa nisso, porem nao era realizada. Larguei tudo para finalmente me dedicar ao que eu realmente me indentifico, e quero seguir como carreira. Atualmente estou cursando Desenvolvimento Full-Stack junto a Trybe, que vem me dando cada vez mais orgulho por ver meu crescimento em tao pouco tempo. 
 
 Voce que esta stalkeando meu gitbub, se tiver um tempinho, fique a vontade para dar uma olhada nos meus repositorios. 
 
