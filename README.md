@@ -2,9 +2,7 @@
 
 Tenho 25 anos e atualmente eu moro em Betim/MG. Desde sempre, fui apaixonada e viciada em tecnologia, sempre tive bastante contato com essa área, mas só recentemente pude começar a me dedicar a isso. O sonho e meu maior foco é me tornar uma mulher desenvolvedora, dedicada, qualificada e competente. 
 
-<img height="200" src="https://c.tenor.com/JQ9nwYFkaeQAAAAC/baby-yoda-grogu.gif" style="max-width: 100%;">
-
-Sou graduada em Engenharia Civil, trabalhei na area de projetos, e era muito boa nisso, porem nao era realizada. Larguei tudo para finalmente me dedicar ao que eu realmente me indentifico, e quero seguir como carreira. Atualmente estou cursando Desenvolvimento Full-Stack junto a Trybe, que vem me dando cada vez mais orgulho por ver meu crescimento em tao pouco tempo. 
+<img height="200" src="https://c.tenor.com/JQ9nwYFkaeQAAAAC/baby-yoda-grogu.gif" style="max-width: 100%;"> 
 
 Voce que esta stalkeando meu gitbub, se tiver um tempinho, fique a vontade para dar uma olhada nos meus repositorios. 
 
