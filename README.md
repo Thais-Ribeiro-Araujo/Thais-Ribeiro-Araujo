@@ -1,8 +1,6 @@
 ## Heeey, sou a Thais Ribeiro!!
 
-Tenho 25 anos e atualmente eu moro em Betim/MG. Desde sempre, fui apaixonada e viciada em tecnologia, sempre tive bastante contato com essa área, mas só recentemente pude começar a me dedicar a isso. O sonho e meu maior foco é me tornar uma mulher desenvolvedora, dedicada, qualificada e competente. 
-
-<img height="200" src="https://c.tenor.com/JQ9nwYFkaeQAAAAC/baby-yoda-grogu.gif" style="max-width: 100%;"> 
+Tenho 27 anos e atualmente eu moro em Betim/MG. Desde sempre, fui apaixonada e viciada em tecnologia, sempre tive bastante contato com essa área, mas só recentemente pude começar a me dedicar a isso.
 
 Voce que esta stalkeando meu gitbub, se tiver um tempinho, fique a vontade para dar uma olhada nos meus repositorios. 
 
