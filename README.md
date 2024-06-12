@@ -5,25 +5,16 @@
 
 <div align="left">
 
-  - 💻 Back End Developer 
+  - 💻 Full stack Developer 
 
   - 🌱 I’m currently learning Java and Spring.
 
-  - :handshake: I'm looking to collaborate with BackEnd projects
+  - :handshake: I'm looking to collaborate with FrontEnd and API's projects
 
   - 🌎 I'm Brazilian
-
-  - 💬 Ask me about **JavaScript, Chess and Skateboard**
-
 </div>
 
 <br>
-
-<div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=StephanCadu&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StephanCadu&layout=compact&langs_count=7&theme=algolia"/>
-<!--   <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=StephanCadu&theme=maroongold"> -->
-</div>
   
 <br>
 
