@@ -4,6 +4,8 @@
 <br>
 
 <div align="left">
+
+ If you are reading this, feel free to take a look at my repositories.
   
   - 🌱 I’m currently learning Java and Spring.
     
