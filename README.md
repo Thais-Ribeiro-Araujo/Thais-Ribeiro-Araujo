@@ -4,7 +4,6 @@
 <br>
 
 <div align="left">
-
   - 💻 Full stack Developer 
 
   - 🌱 I’m currently learning Java and Spring.
@@ -12,6 +11,7 @@
   - :handshake: I'm looking to collaborate with FrontEnd and API's projects
 
   - 🌎 I'm Brazilian
+  - - I've always been passionate about technology, I've always had a lot of contact with this area, but I was only recently able to start dedicating myself to it.
 </div>
 
 <br>
