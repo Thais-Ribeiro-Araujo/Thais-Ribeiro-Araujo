@@ -88,7 +88,7 @@
 </div>
 <br/>
     <br/>
-    <p> Se voce leu até aqui, agradeço sua visita ao meu github e a sua atenção!!
+    <p> If you've read this far, thank you for visiting my github and for your attention!!
     </p>
 <img height="200" src="https://i.pinimg.com/originals/c1/57/3b/c1573b4b45dc7dd0faf89eb5064f53f9.gif" style="max-width: 100%;">
  </div>
